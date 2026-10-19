@@ -6,7 +6,7 @@
 > Cách trả lời: điền nội dung phân tích chi tiết vào bên dưới mỗi câu hỏi.
 > `grade.py` đếm số câu đã trả lời (15 điểm cho 10 câu).
 >
-> Họ và tên: Nguyễn Hải Long  Mã học viên: L3A202602471
+> Họ và tên: Nguyễn Hải Long  Mã học viên: 2A202602471
 
 ---
 

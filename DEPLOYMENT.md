@@ -11,8 +11,8 @@
 | Mục | Nội dung |
 |-----|----------|
 | Họ và tên | Nguyễn Hải Long |
-| Mã học viên | L3A202602471 |
-| Repo | K4-L3A-DAY12-NguyenHaiLong-L3A202602471-CloudServicesAndDeployment |
+| Mã học viên | 2A202602471 |
+| Repo | K4-L3A-DAY12-NguyenHaiLong-2A202602471-CloudServicesAndDeployment |
 
 ## Service
 
